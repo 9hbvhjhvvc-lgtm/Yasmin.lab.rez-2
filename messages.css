@@ -1,0 +1,47 @@
+/* Хабарламалар бетінің стильдері */
+body {
+  margin: 0;
+  font-family: "PT Sans", Arial, sans-serif;
+  background: #2c201b;
+  color: #f3e9dc;
+}
+.top {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 40px 20px 10px;
+}
+.top h1 {
+  margin: 14px 0 6px;
+  font-family: "PT Serif", Georgia, serif;
+  color: #dcb875;
+}
+.top p { color: #c9b8a6; }
+.back {
+  color: #dcb875;
+  text-decoration: none;
+  font-size: 14px;
+}
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+}
+.msg {
+  background: #fffcf6;
+  color: #2b2321;
+  border-left: 5px solid #7a263a;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin-bottom: 12px;
+}
+.msg .head {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: #857a71;
+  margin-bottom: 6px;
+}
+.msg .head b { color: #7a263a; font-size: 15px; }
+.msg p { margin: 0; line-height: 1.6; }
