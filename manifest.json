@@ -1,0 +1,17 @@
+{
+  "name": "Yasmin.lab.rez — электронды резюме-кітап",
+  "short_name": "YasminBook",
+  "description": "Төрехан Ясминнің электронды резюме-кітабы: кітап, тапсырмалар, жазбалар және құрбымның кітабы",
+  "lang": "kk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2c201b",
+  "theme_color": "#7a263a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
